@@ -1,1 +1,1 @@
-🖥️ Password Generator 🖥️
+🖥️ PASSWORD GENERATOR 🖥️
